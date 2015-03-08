@@ -1,4 +1,4 @@
-#Helpful Info
+#Helpful Resources
 [Smogon Dex XY](http://www.smogon.com/dex/xy/pokemon/)
 
 [PCEdit - Full PC Dumping and Injection for X/Y/OR/AS](http://projectpokemon.org/forums/showthread.php?44561-PCEdit-Full-PC-Dumping-and-Injection-for-X-Y-OR-AS)
